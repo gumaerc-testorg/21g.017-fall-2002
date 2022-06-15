@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,11 +37,11 @@ Introduction
 {{< tdopen >}}
 
 
-Siegert, Hubertus. _Berlin Babylon_. ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_2_1))
+Siegert, Hubertus. _Berlin Babylon_. ({{% resource_link c989c1a8-9d11-c91d-f75b-82293b37da37 "PDF" %}})
 
-Pinder, John. "What the EU is for," "Single Market, Single Currency," and "The EU and the Rest of Europe." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_2_2))
+Pinder, John. "What the EU is for," "Single Market, Single Currency," and "The EU and the Rest of Europe." ({{% resource_link 88edd6b0-ba34-7aa6-8acc-affa3b057853 "PDF" %}})
 
-Nietzsche, Friedrich. "The Four Great Errors." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_2_3))
+Nietzsche, Friedrich. "The Four Great Errors." ({{% resource_link ef32f2ed-df4d-0cef-d860-0b2a549b9e6f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -53,9 +54,9 @@ Nietzsche, Friedrich. "The Four Great Errors." ([PDF]({{< baseurl >}}/resources/
 {{< tdopen >}}
 
 
-Byatt, A. S. _Babel Tower._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_3))
+Byatt, A. S. _Babel Tower._ ({{% resource_link 2a5cce8a-e361-6fa0-9871-4310be61a350 "PDF" %}})
 
-Nietzsche, Friedrich. "The 'Improvers of Mankind'" ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_3))
+Nietzsche, Friedrich. "The 'Improvers of Mankind'" ({{% resource_link 2a5cce8a-e361-6fa0-9871-4310be61a350 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -68,7 +69,7 @@ Nietzsche, Friedrich. "The 'Improvers of Mankind'" ([PDF]({{< baseurl >}}/resour
 {{< tdopen >}}
 
 
-Byatt, A. S. _Babel Tower._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_4_1))
+Byatt, A. S. _Babel Tower._ ({{% resource_link f0d1ecc3-7c58-5724-f8a0-8fbea1ad53b7 "PDF" %}})
 
 Noble, Michael J. "A Tower of Tongues."
 
@@ -81,7 +82,7 @@ Noble, Michael J. "A Tower of Tongues."
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Nietzsche, Friedrich. _On the Advantages and Disadvantages of History for Life._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_5))
+Nietzsche, Friedrich. _On the Advantages and Disadvantages of History for Life._ ({{% resource_link 26a082aa-cd08-89ad-b1ad-e1e57afc7069 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,9 +93,9 @@ Nietzsche, Friedrich. _On the Advantages and Disadvantages of History for Life._
 {{< tdopen >}}
 
 
-Hermann, Judith. "This Side of the Oder." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_6_1))
+Hermann, Judith. "This Side of the Oder." ({{% resource_link eb69ce64-35c0-0d86-feb1-b8158d8e84e9 "PDF" %}})
 
-Kristeva, Julia. "Europe Divided: Politics, Ethics, Religion." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_6_2))
+Kristeva, Julia. "Europe Divided: Politics, Ethics, Religion." ({{% resource_link 4791b766-bc45-1e3a-4eb7-586122a5b4cf "PDF" %}})
 
 
 {{< tdclose >}}
@@ -107,9 +108,9 @@ Kristeva, Julia. "Europe Divided: Politics, Ethics, Religion." ([PDF]({{< baseu
 {{< tdopen >}}
 
 
-Schulze, Ingo. _Simple Stories_. ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_7_1))
+Schulze, Ingo. _Simple Stories_. ({{% resource_link e99d893a-540c-2f64-d408-c4b2b51340ea "PDF" %}})
 
-Wolf, Christa. "The Leftover Baggage of German History: Correspondence with Jürgen Habermas." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_7_2))
+Wolf, Christa. "The Leftover Baggage of German History: Correspondence with Jürgen Habermas." ({{% resource_link 6634b66e-120f-5623-461e-d9543e980bd9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -122,9 +123,9 @@ Wolf, Christa. "The Leftover Baggage of German History: Correspondence with Jü
 {{< tdopen >}}
 
 
-Wolf, Christa. _Cassandra_. ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_8_1))
+Wolf, Christa. _Cassandra_. ({{% resource_link 8a879094-d681-0d24-78cc-6f66709dab9f "PDF" %}})
 
-Bahro, Rudolf. "From Red to Green: Industrialism and Cultural Revolution." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_8_2))
+Bahro, Rudolf. "From Red to Green: Industrialism and Cultural Revolution." ({{% resource_link c6a7700f-0405-7289-4346-75688ae8a6c4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -137,9 +138,9 @@ Bahro, Rudolf. "From Red to Green: Industrialism and Cultural Revolution." ([PDF
 {{< tdopen >}}
 
 
-Strauß, Botho. "Idiots of the Immediate." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_9_1))
+Strauß, Botho. "Idiots of the Immediate." ({{% resource_link b06eaf83-e443-9938-0ff8-fb38ebe7c7ad "PDF" %}})
 
-Sloterdijk, Peter. "Cynicism — The Twilight of False Consciousness." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_9_2))
+Sloterdijk, Peter. "Cynicism — The Twilight of False Consciousness." ({{% resource_link 8a2f5243-48f7-d450-647e-fd8e5bd48d82 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -152,11 +153,11 @@ Sloterdijk, Peter. "Cynicism — The Twilight of False Consciousness." ([PDF]({{
 {{< tdopen >}}
 
 
-Vinterberg, Thomas. _The Celebration._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_10_1))
+Vinterberg, Thomas. _The Celebration._ ({{% resource_link 82d54d5b-2857-48c3-f0ff-12fe06000483 "PDF" %}})
 
-_Aspects of Dogma: p.o.v._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_10_2))
+_Aspects of Dogma: p.o.v._ ({{% resource_link 7ad7f47c-f2b3-6fa7-72e9-7ef0b203d8b3 "PDF" %}})
 
-Foucault, Michel. "What is an Author?" ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_10_3))
+Foucault, Michel. "What is an Author?" ({{% resource_link 566daed0-9a99-28c9-f3b1-087f75a22197 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -169,9 +170,9 @@ Foucault, Michel. "What is an Author?" ([PDF]({{< baseurl >}}/resources/mit21g_0
 {{< tdopen >}}
 
 
-Houellebecq, Michel. _The Elementary Particles._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_11_1))
+Houellebecq, Michel. _The Elementary Particles._ ({{% resource_link aa2e7dd5-1454-9f46-8b4a-5714feca2834 "PDF" %}})
 
-Piper, Andrew. "Project Übermensch: German Intellectuals Confront Genetic Engineering." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_11_2))
+Piper, Andrew. "Project Übermensch: German Intellectuals Confront Genetic Engineering." ({{% resource_link e77d7cfe-9a8c-55fe-57d4-1649a68ac066 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -184,9 +185,9 @@ Piper, Andrew. "Project Übermensch: German Intellectuals Confront Genetic Engin
 {{< tdopen >}}
 
 
-Beuys, Joseph. Artworks_._ ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_12))
+Beuys, Joseph. Artworks_._ ({{% resource_link 4c77a0dc-36e8-af5a-139c-f29f5c93e4eb "PDF" %}})
 
-Buchloh, Benjamin H. D. "Beuys: The Twilight of the Idol". ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_12))
+Buchloh, Benjamin H. D. "Beuys: The Twilight of the Idol". ({{% resource_link 4c77a0dc-36e8-af5a-139c-f29f5c93e4eb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -197,7 +198,7 @@ Buchloh, Benjamin H. D. "Beuys: The Twilight of the Idol". ([PDF]({{< baseurl >}
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Kristeva, Julia. "Europhilia-Europhobia." ([PDF]({{< baseurl >}}/resources/mit21g_017f02_lec_13))
+Kristeva, Julia. "Europhilia-Europhobia." ({{% resource_link fdcceaae-74af-c27e-a1e8-f654747b9c23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
