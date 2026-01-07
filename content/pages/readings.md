@@ -14,7 +14,7 @@ Bahro, Rudolf. _From Red to Green: Industrialism and Cultural Revolution_. Lond
 
 Barnet, Sylvan. _Writing about Literature._ Boston: Longman, 2002. ISBN:0321104765 (For background on the principles of literature and cinema studies.)
 
-Beuys, Joseph. Artworks. (see examples at {{% resource_link "3593de6d-a69b-4d6a-ac73-949663023f91" "Walker Art Center online exhibit" %}})
+Beuys, Joseph. Artworks. (see examples at [Walker Art Center online exhibit](https://walkerart.org/collections/artists/joseph-beuys))
 
 Buchloh, Benjamin H. D. "Beuys: The Twilight of the Idol." _Artforum_ 18/5 (January 1980).
 
@@ -42,16 +42,16 @@ Pinder, John. _The European Union: A Very Short Introduction._ New York: Oxford 
 
 Piper, Andrew. "Project Übermensch:  German Intellectuals Confront Genetic Engineering." _Lingua Franca_ (January 2000): 74-75.
 
-_p.o.v._ "{{% resource_link "7411039b-63b4-43ee-b5f7-a462a40ee0cb" "Aspects of Dogma" %}}." 10 (2000).
+_p.o.v._ "[Aspects of Dogma](https://pov.imv.au.dk/Issue_10/POV_10cnt.html)." 10 (2000).
 
 Schulze, Ingo. _Simple Stories._ New York: Knopf. ISBN: 0375405410.
 
-Siegert, Hubertus. _{{% resource_link "ea290d19-4f87-4cd8-83ce-f6e0ea819b5f" "Berlin Babylon" %}}._ 2001.
+Siegert, Hubertus. _[Berlin Babylon](http://www.imdb.com/title/tt0276819/)._ 2001.
 
 Sloterdijk, Peter. "Cynicism — The Twilight of False Consciousness." _New German Critiques_ 33, 189-206.
 
 Strauß, Botho. "Idiots of the Immediate." Couples, Passersby: Indianapolis: Hydra, 1996, ISBN 0810112426.
 
-Vinterberg, Thomas. {{% resource_link "64b3cfda-6dbb-43fc-9a52-65225baeb1c6" "The Celebration" %}}.  USA Films, 2004. ASIN: B00023P4N8.
+Vinterberg, Thomas. [The Celebration](http://www.imdb.com/title/tt0154420/).  USA Films, 2004. ASIN: B00023P4N8.
 
 Wolf, Christa. _Cassandra._ New York: Farrar, Straus, Giroux, 1984. ISBN: 0374119562.
